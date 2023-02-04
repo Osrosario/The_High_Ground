@@ -569,7 +569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db5c784a8905cff42960a93ac900e6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextLevel: UnitSelect
+  SceneIndex: 2
 --- !u!1 &1451279221
 GameObject:
   m_ObjectHideFlags: 0
@@ -861,7 +861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db5c784a8905cff42960a93ac900e6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextLevel: Controls
+  SceneIndex: 1
 --- !u!114 &1712460361
 MonoBehaviour:
   m_ObjectHideFlags: 0
